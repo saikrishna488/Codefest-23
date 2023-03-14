@@ -7,3 +7,4 @@ Smartech is an edtech website that provides a comprehensive and innovative learn
 Technologies Used:
 Front End: HTML , CSS , JAVASCRIPT.
 Back End: Nodejs, Express framework , Mongoose library , Mongodb database. 
+![Screenshot (5)](https://user-images.githubusercontent.com/117559736/225116778-3ff4fc7f-7430-4d65-84b6-812edd79ff04.png)
