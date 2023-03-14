@@ -1,12 +1,12 @@
 # Codefest-23
 
-SMARTECH is an edtech website where students can enhance, experience, and learn the skills required to crack placement opportunities. SMARTECH also has augmented reality content where students can explore real-time experiences and master the skills. SMARTECH also promotes students to do coding and build projects relevant to it, gaining hands-on experience and practical skills.
-
 # Problem Statement
 Students lack the practical skills and experience needed to be competitive in the job market, and lack access to the latest technologies and tools needed for success.
 
 # Solution:
 Developing an Edtech website to provide hands-on experience to help students to enhance their skills and confidence needed to succeed in job interviews.
+
+SMARTECH is an edtech website where students can enhance, experience, and learn the skills required to crack placement opportunities. SMARTECH also has augmented reality content where students can explore real-time experiences and master the skills. SMARTECH also promotes students to do coding and build projects relevant to it, gaining hands-on experience and practical skills.
 
 # Why SMARTECH?
 
