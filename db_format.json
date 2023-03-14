@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "641003577731061e3aa7d6dc"
+  },
+  "name": "Skills",
+  "img1": "http://127.0.0.1:5600/images/Skill1.png",
+  "img2": "http://127.0.0.1:5600/images/Skill2.png",
+  "link": "http://127.0.0.1:5600/skills",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6410069b59aebb8cd81765da"
+  },
+  "name": "Coding",
+  "img1": "http://127.0.0.1:5600/images/Coding1.png",
+  "img2": "http://127.0.0.1:5600/images/Coding2.png",
+  "link": "http://127.0.0.1:5600/coding",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64100889b078966ee326dfca"
+  },
+  "name": "Aptitude",
+  "img1": "http://127.0.0.1:5600/images/Aptitude1.png",
+  "img2": "http://127.0.0.1:5600/images/Aptitude2.png",
+  "link": "http://127.0.0.1:5600/aptitude",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641008d2b8fa77cfe9233798"
+  },
+  "name": "Projects",
+  "img1": "http://127.0.0.1:5600/images/Project1.png",
+  "img2": "http://127.0.0.1:5600/images/Project2.png",
+  "link": "http://127.0.0.1:5600/project",
+  "__v": 0
+}]
