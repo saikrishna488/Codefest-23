@@ -6,8 +6,9 @@ SMARTECH is an edtech website where students can enhance, experience, and learn 
 
 Smartech is an edtech website that provides a comprehensive and innovative learning platform for students and professionals. It offers a wide range of courses in coding, aptitude, and placement, as well as other topics related to technology.
 
-Technologies Used:
+# Technologies Used:
 Front End: HTML , CSS , JAVASCRIPT.
+
 Back End: Nodejs, Express framework , Mongoose library , Mongodb database. 
 ![Screenshot (5)](https://user-images.githubusercontent.com/117559736/225116778-3ff4fc7f-7430-4d65-84b6-812edd79ff04.png)
 ![Screenshot (6)](https://user-images.githubusercontent.com/117559736/225116966-7de8353a-37f5-4cc4-a64b-0975ab7a57be.png)
