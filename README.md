@@ -5,7 +5,7 @@ SMARTECH is an edtech website where students can enhance, experience, and learn 
 # Problem Statement
 Students lack the practical skills and experience needed to be competitive in the job market, and lack access to the latest technologies and tools needed for success.
 
-# solution:
+# Solution:
 Developing an Edtech website to provide hands-on experience to help students to enhance their skills and confidence needed to succeed in job interviews.
 
 # Why SMARTECH?
