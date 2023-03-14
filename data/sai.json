@@ -1,0 +1,9 @@
+{
+    "_id": {
+      "$oid": "640daf998b410b47e5041f5a"
+    },
+    "name": "sai",
+    "email": "emaioll;lll",
+    "password": "1234",
+    "__v": 0
+  }
